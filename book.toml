@@ -1,0 +1,6 @@
+[book]
+authors = [""]
+language = "en"
+multilingual = false
+src = "src"
+title = "Effect Engine 2 Docs"
