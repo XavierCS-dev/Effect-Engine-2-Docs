@@ -8,8 +8,8 @@ so you only need to interact with them at a high level. This would include the 3
 Since the primtive types are so common, they are highly likely to share names with structures
 from other crates. Therefore, it is encouraged that you use the types built into Effect Engine
 and be careful not to import similarly named types from other crates. If you need a feature for
-a particular structure or a particular data type that is not implement in Effect Engine, please
+a particular structure or a particular data type that is not implemented in Effect Engine, please
 create a feature request on the [issues](https://github.com/XavierCS-dev/Effect-Engine-2/issues) page.
 
 Of course, feel free to use types from any other library you choose, they are just likely to be
-incompitble with built in types used by the engine.
+incompatible with built in types used by the engine.
